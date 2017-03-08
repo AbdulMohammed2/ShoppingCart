@@ -9,6 +9,6 @@
 --> ShoppingCartModelTest 
 --> ShoppingCartTotalTest (This will show all possible scenario for execute without discount and with discount)
 
-build 
---   mvn clean test
---   mvn clean isntall
+4. Test Build : mvn clean test
+
+  mvn clean isntall
