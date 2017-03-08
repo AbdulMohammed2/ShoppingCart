@@ -8,3 +8,7 @@
 3. Test Classes created are 
 --> ShoppingCartModelTest 
 --> ShoppingCartTotalTest (This will show all possible scenario for execute without discount and with discount)
+
+build 
+mvn clean test
+mvn clean isntall
